@@ -9,7 +9,7 @@
 - 💬 Ask me about **React, TypeScript, Frontend, Cloud & AI**  
 - 📫 Reach me at **rajatmakholiya07@gmail.com**  
 - 📄 Check my experiences: [Experience](https://rajat-makholiya.vercel.app/experience)  
-- ⚡ Fun fact: **We are in a Bubble 🌌**
+- ⚡ Fun fact: **RAMs cost a Kidney now 🌌**
 
 ---
 
